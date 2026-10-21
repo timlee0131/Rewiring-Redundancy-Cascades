@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+
+# Tokenised corpora and checkpoints
+data/
+checkpoints/
+*.pt
+*.bin
+
+# Scratch
+logs/
+playground/
+
+# local script
+*.sh
